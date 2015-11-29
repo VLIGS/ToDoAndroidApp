@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
         todoListView.setAdapter(todoAdapter);
         todoAdapter.add("Bread");
         todoAdapter.add("Jelly");
-        todoAdapter.add("Peanut butter");
+        todoAdapter.add("Peanut butter"); //added comments
 
     }
 
